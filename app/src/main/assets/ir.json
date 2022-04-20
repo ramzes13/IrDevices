@@ -1,0 +1,28 @@
+[
+  {
+    "name": "AC",
+    "buttons": [
+      {
+        "name": "On",
+        "irCode": "fdafds"
+      },
+      {
+        "name": "Off`",
+        "irCode": "fdafds"
+      }
+    ]
+  },
+  {
+    "name": "Light",
+    "buttons": [
+      {
+        "name": "On",
+        "irCode": "fdafds"
+      },
+      {
+        "name": "Off`",
+        "irCode": "fdafds"
+      }
+    ]
+  }
+]
